@@ -18,12 +18,6 @@ Welcome to **The Managed Desk**, an advanced task management system designed wit
   - Secure authentication with role-based access control.
   - Manages permissions and protects data.
 
-- **Real-Time Notifications:**
-  - Immediate updates on task changes and deadlines.
-
-- **Analytics and Reporting:**
-  - In-depth insights into task progress and performance metrics.
-
 - **Service Discovery:**
   - Utilizes Eureka Server for efficient service registration and discovery.
   
@@ -35,7 +29,7 @@ Welcome to **The Managed Desk**, an advanced task management system designed wit
 - **Framework:** [Spring Boot](https://spring.io/projects/spring-boot) - Simplifies building production-ready applications.
 - **Service Discovery:** [Eureka Server](https://spring.io/projects/spring-cloud-netflix) - Handles service registration and discovery.
 - **Programming Language:** [Java](https://www.oracle.com/java/) - Core language for application logic.
-- **Database:** MYSQL - Manages persistent data storage.
+- **Database:** [MySQL](https://www.mysql.com/) - Manages persistent data storage.
 
 ## Getting Started
 
